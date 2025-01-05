@@ -1,8 +1,24 @@
-# React + Vite
+<h1> Aplicativo de registro de usuário </h1>
+<br>
+Um aplicativo de registro de usuário simples e responsivo criado com React. Este aplicativo permite que os usuários se registrem inserindo seu nome, idade e e-mail, que é enviado para uma API de backend para armazenamento.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h3> Características </h3>
 
-Currently, two official plugins are available:
+• Formulários de entrada do usuário para nome, idade e e-mail.
+<br>
+• Envia dados para a API de backend usando o Axios.
+<br>
+• Layout responsivo criado com styled-components.
+<br>
+• Validação de formulários em tempo real (em breve).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h3> Tecnologias Utilizadas </h3>
+
+Reagir
+• Axios (para solicitações de API)
+<br>
+• Componentes estilizados (para estilização)
+<br>
+• JavaScript (ES6+)
+<br>
+• HTML5 e CSS3
