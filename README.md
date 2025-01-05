@@ -19,6 +19,6 @@ Reagir
 <br>
 • Componentes estilizados (para estilização)
 <br>
-• JavaScript (ES6+)
+• JavaScript 
 <br>
 • HTML5 e CSS3
